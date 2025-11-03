@@ -18,8 +18,13 @@
 
 > Tip: If login requires SMS verification, stop before verification and test guest-accessible flows and UI; document permission prompts and navigation elements.
 
-![Home Screen ✅](./screenshots/screenshot-home.png)
+## 📸 Screenshots
 
-![Account Page ✅](./screenshots/screenshot-account.png)
+### Home Screen ✅
+<img src="./screenshots/screenshot-home.png" width="300" alt="Home Screen"/>
 
-![Ride Options / Pricing ✅](./screenshots/screenshot-ride-pricing.png)
+### Account Page ✅
+<img src="./screenshots/screenshot-account.png" width="300" alt="Account Page"/>
+
+### Ride Options / Pricing ✅
+<img src="./screenshots/screenshot-ride-pricing.png" width="300" alt="Ride Pricing"/>
