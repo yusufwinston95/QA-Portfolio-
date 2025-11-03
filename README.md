@@ -4,6 +4,14 @@ Welcome to my QA Portfolio!
 
 I’m actively looking for QA Engineer opportunities — feel free to reach out! 👋
 
+**🧩 What I Bring:**
+I specialize in understanding real user scenarios and validating software behavior through thorough UI and functional testing. With strong attention to detail, clear communication, and hands-on testing skills, I ensure issues are identified early and user experiences remain smooth and reliable.
+
+
+
+**Core Skills:** Manual QA • Mobile Testing • Web Testing • Functional & UI Testing • Test Cases • Bug Reporting • Regression Testing • Attention to Detail
+
+
 📸 Includes real execution screenshots for each case study!
 Here you'll find manually executed case studies testing real web & mobile applications.  
 Each project includes:
