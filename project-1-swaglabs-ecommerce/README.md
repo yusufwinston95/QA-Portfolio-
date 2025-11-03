@@ -26,9 +26,9 @@ Functional and UI testing of core purchase flows:
 ## 📸 Screenshots
 
 | Login Page ✅ | Products Page ✅ |
-|---|---|
-| ![Login Screenshot](./screenshots/Screenshot login.png) | ![Products Screenshot](./screenshots/Screenshot products.png) |
+|--------------|-----------------|
+| ![Login Screenshot](./screenshots/Screenshot%20login.png) | ![Products Screenshot](./screenshots/Screenshot%20products.png) |
 
 | Cart View ✅ | Checkout ✅ |
-|---|---|
-| ![Cart Screenshot](./screenshots/Screenshot cart.png) | ![Checkout Screenshot](./screenshots/Screenshot check out.png) |
+|-------------|-------------|
+| ![Cart Screenshot](./screenshots/Screenshot%20cart.png) | ![Checkout Screenshot](./screenshots/Screenshot%20check%20out.png) |
