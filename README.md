@@ -55,8 +55,7 @@ Here’s what I bring to the team:
 - ✅ Ownership mindset — I follow issues until they’re fully resolved
 - ⏱️ Reliable, organized, and committed to fast execution
 
-I’m excited to contribute to a strong QA culture and help ship high-quality software! 
-
+I’m excited to contribute to a strong QA culture and help ship high-quality software! 🚀
 
 ---
 
