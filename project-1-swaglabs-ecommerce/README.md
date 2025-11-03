@@ -23,3 +23,12 @@ Functional and UI testing of core purchase flows:
 - Screenshots in `/screenshots` (redact any personal data)
 
 > **Note:** Screenshots included in the portfolio were captured by Yusuf during test execution and referenced in the bug tickets.
+## 📸 Screenshots
+
+| Login Page ✅ | Products Page ✅ |
+|---|---|
+| ![Login Screenshot](./screenshots/Screenshot login.png) | ![Products Screenshot](./screenshots/Screenshot products.png) |
+
+| Cart View ✅ | Checkout ✅ |
+|---|---|
+| ![Cart Screenshot](./screenshots/Screenshot cart.png) | ![Checkout Screenshot](./screenshots/Screenshot check out.png) |
