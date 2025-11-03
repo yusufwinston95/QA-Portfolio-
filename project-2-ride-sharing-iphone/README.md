@@ -20,11 +20,6 @@
 
 ## 📸 Screenshots
 
-### Home Screen ✅
-<img src="./screenshots/screenshot-home.png" width="300" alt="Home Screen"/>
-
-### Account Page ✅
-<img src="./screenshots/screenshot-account.png" width="300" alt="Account Page"/>
-
-### Ride Options / Pricing ✅
-<img src="./screenshots/screenshot-ride-pricing.png" width="300" alt="Ride Pricing"/>
+| Home Screen ✅ | Account Page ✅ | Ride Options / Pricing ✅ |
+| --- | --- | --- |
+| <img src="./screenshots/screenshot-home.png" width="240" alt="Home Screen"/> | <img src="./screenshots/screenshot-account.png" width="240" alt="Account Page"/> | <img src="./screenshots/screenshot-ride-pricing.png" width="240" alt="Ride Pricing"/> |
