@@ -43,8 +43,20 @@ Below are real QA case studies I independently planned, executed, and documented
 🔗 [View Case Study](./project-2-ride-sharing-iphone/README.md)
 
 ---
+## ⭐ Why Hire Me?
 
-📌 More case studies coming soon!
+
+I take pride in delivering software that users can trust.  
+Here’s what I bring to the team:
+
+- 🔍 Strong attention to detail — I catch what others miss
+- 🧪 Hands-on experience testing real products & mobile apps
+- 🤝 Clear communication with engineers & stakeholders
+- ✅ Ownership mindset — I follow issues until they’re fully resolved
+- ⏱️ Reliable, organized, and committed to fast execution
+
+I’m excited to contribute to a strong QA culture and help ship high-quality software! 
+
 
 ---
 
