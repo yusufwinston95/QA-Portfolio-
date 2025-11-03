@@ -1,3 +1,8 @@
+# 🛒 Swag Labs – E-commerce Testing Project
+
+A manual QA case study focused on testing login, product pages, cart functionality, and the checkout flow of a demo e-commerce site. This project demonstrates my process for validating UI behavior, identifying bugs, and documenting results clearly for engineering teams.
+
+---
 # E‑commerce Web App QA Project – Swag Labs
 
 **Tester:** Yusuf Winston  
