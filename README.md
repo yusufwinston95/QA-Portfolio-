@@ -1,6 +1,7 @@
 # ✅ Yusuf Winston – Software QA Engineer
 
 Welcome to my QA Portfolio!  
+📸 Includes real execution screenshots for each case study!
 Here you'll find manually executed case studies testing real web & mobile applications.  
 Each project includes:
 - Test cases
@@ -35,6 +36,10 @@ Here are the hands-on testing projects in this portfolio:
 
 ---
 
-### 📫 Contact
-- **Email:** yusufwinston95@gmail.com
-- **Location:** Palmdale, CA
+## 📬 Contact
+
+If you'd like to connect or discuss opportunities, feel free to reach out!
+
+- **Email:** yusufwinston95@gmail.com  
+- **Location:** Palmdale, CA  
+- **LinkedIn:** https://www.linkedin.com/in/yusufwinston
