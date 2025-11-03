@@ -43,6 +43,7 @@ Below are real QA case studies I independently planned, executed, and documented
 🔗 [View Case Study](./project-2-ride-sharing-iphone/README.md)
 
 ---
+
 ## ⭐ Why Hire Me?
 
 
