@@ -42,6 +42,8 @@ Below are real QA case studies I independently planned, executed, and documented
 
 ## 📬 Contact
 
+📌 Actively seeking QA Engineer roles — Ready to contribute from day one!
+
 If you'd like to connect or discuss opportunities, feel free to reach out!
 
 - **Email:** yusufwinston95@gmail.com  
