@@ -11,12 +11,23 @@ Each project includes:
 
 ---
 
-## 🔹 Projects
+## 🔹 QA Case Studies
 
-| Project | Type | Tech | Status | Preview |
-|--------|------|------|--------|--------|
-| **Swag Labs – E-commerce Testing** | Web App | Chrome (Desktop) | ✅ Complete | [View Project](./project-1-swaglabs-ecommerce/README.md) |
-| **Lyft App – Ride-Sharing UI Testing** | Mobile iOS | Lyft App Store version | ✅ Complete | [View Project](./project-2-ride-sharing-iphone/README.md) |
+Here are the hands-on testing projects in this portfolio:
+
+### 🛒 Web App — Swag Labs E-commerce
+- **Type:** Functional + UI Testing  
+- **Scope:** Login, Products, Cart, Checkout  
+- ✅ Completed  
+🔗 [View Case Study](./project-1-swaglabs-ecommerce/README.md)
+
+---
+
+### 🚗 Mobile App — Ride-Sharing (Lyft)
+- **Type:** Mobile UI Testing  
+- **Device:** iPhone  
+- ✅ Completed  
+🔗 [View Case Study](./project-2-ride-sharing-iphone/README.md)
 
 ---
 
