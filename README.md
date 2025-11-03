@@ -1,6 +1,9 @@
 # ✅ Yusuf Winston – Software QA Engineer
 
 Welcome to my QA Portfolio!  
+
+I’m actively looking for QA Engineer opportunities — feel free to reach out! 👋
+
 📸 Includes real execution screenshots for each case study!
 Here you'll find manually executed case studies testing real web & mobile applications.  
 Each project includes:
@@ -14,7 +17,8 @@ Each project includes:
 
 ## 🔹 QA Case Studies
 
-Here are the hands-on testing projects in this portfolio:
+Below are real QA case studies I independently planned, executed, and documented:
+
 
 ### 🛒 Web App — Swag Labs E-commerce
 - **Type:** Functional + UI Testing  
