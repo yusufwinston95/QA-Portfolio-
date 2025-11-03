@@ -17,3 +17,13 @@
 - Screenshots in `/screenshots`
 
 > Tip: If login requires SMS verification, stop before verification and test guest-accessible flows and UI; document permission prompts and navigation elements.
+
+## 📸 Screenshots
+
+| Home Screen ✅ | Account Page ✅ |
+|---|---|
+| ![Home Screen](./screenshots/Screenshot home.png) | ![Account Page](./screenshots/Screenshot account.png) |
+
+| Ride Options / Pricing ✅ |
+|---|
+| ![Ride Pricing](./screenshots/Screenshot ride-pricing.png) |
